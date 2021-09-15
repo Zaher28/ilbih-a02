@@ -2,7 +2,7 @@
  *  UCF COP3330 Fall 2021 Assignment 2 Solution
  *  Copyright 2021 Zaher Ilbih
  */
-package solution06;
+package solution;
 
 import java.util.Scanner; //imports Scanner class
 import java.util.Calendar; //imports Date class
@@ -26,9 +26,6 @@ and display the output as shown in the example that follows.
     print out how many years user has left till he/she retires.
     print out what year the user will retire in using RetirementAge class and Calendar class
  */
-
-
-
 
     public static void main(String[] args){
 
