@@ -5,7 +5,6 @@
 package solution;
 
 import java.util.Scanner;
-import solution.Room;
 
 public class Solution07 {
     /*
