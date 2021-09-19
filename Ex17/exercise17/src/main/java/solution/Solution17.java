@@ -11,11 +11,11 @@ public class Solution17 {
 
         Create a method that prints something based on whether it is legal
         for the user to drive.
-            if(BAC>=.08)
-                'cant drive'
+            if BAC>=.08
+                'can't drive'
             else
                 'can drive'
-        Use Given formula to test and use more if-else clauses for whether or not the user
+        Use Given formula to test and use more if-else clauses for whether the user
         is a male or a female.
         Test according to BAC = (A × 5.14 / W × r) − .015 × H
 
